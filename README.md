@@ -13,6 +13,7 @@ My view: AI transformation isn't about adding a chatbot on top. It changes how t
 ### In private
 
 - **[Recompiled](https://chris-koenig.github.io)**, my blog in English and [German](https://chris-koenig.github.io/de/). Two agents I set up run it: one owns the writing, one owns the site. I review everything before it goes out.
+- **[arc42ify](https://github.com/Chris-Koenig/arc42ify)**, an open-source agent skill that writes [arc42](https://arc42.org/) architecture docs from a repo, a product idea or loose notes, with clean diagrams instead of generic Mermaid boxes. Architecture docs usually go stale once the code moves on. Here an agent keeps them current as part of the work. Runs in Claude Code, GitHub Copilot and OpenAI Codex.
 - **A career-network manager built on Claude.** After a meeting I just talk into it. It keeps track of who I know, what we discussed and what I still owe someone. It never acts without my go.
 - **Skills made from my own corrections.** Instead of explaining my preferences to AI again and again, I turn them into reusable skills.
 - **A family assistant** that takes emails, appointments and paperwork off our plate at home.
